@@ -1,0 +1,1 @@
+jt -t oceans16 -f consolamono -fs 16 -nf fira -nfs 16 -tf fira -tfs 16 -cellw 70% -ofs 13 -dfs 16 -tfs 16 -T -N
