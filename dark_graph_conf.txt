@@ -1,2 +1,2 @@
 from jupyterthemes import jtplot
-jtplot.style()
+jtplot.style(theme='oceans16', grid=False)
